@@ -1,5 +1,9 @@
 # 🎌 ANIME STATS TELEGRAM BOT
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Anime Stats Bot Banner" width="100%">
+</p>
+
 > A Telegram bot for retrieving anime statistics, views, and reviews
 
 ## TABLE OF CONTENTS
