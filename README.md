@@ -256,16 +256,16 @@ Current number of views: 1,234,567
 
 ## ROADMAP
 
-- [ ] Add multi-language support (EN/RU toggle)
-- [ ] Improve error handling with user-friendly messages
-- [ ] Add request caching for faster responses
-- [ ] Create inline mode for quick search
-- [ ] Add random anime recommendation command
-- [ ] MyAnimeList API integration
-- [ ] Add rating charts and visualizations
-- [ ] Voice command support
-- [ ] Add database for search history
-- [ ] Daily popular anime newsletter
+- Add multi-language support (EN/RU toggle)
+- Improve error handling with user-friendly messages
+- Add request caching for faster responses
+- Create inline mode for quick search
+- Add random anime recommendation command
+- MyAnimeList API integration
+- Add rating charts and visualizations
+- Voice command support
+- Add database for search history
+- Daily popular anime newsletter
 
 ## CONTRIBUTING
 
